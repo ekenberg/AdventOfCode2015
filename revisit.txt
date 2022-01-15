@@ -1,0 +1,4 @@
+## Tasks to revisit
+
+  - Day 7 - how to do this without generating haskell code?
+  - Day 9 - why does this feel so awkward?
